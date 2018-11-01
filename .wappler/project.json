@@ -1,0 +1,19 @@
+{
+  "projectName": "Data",
+  "projectServerModel": "PHP",
+  "targets": [
+    {
+      "name": "Local",
+      "remoteURL": "http://localhost/wernerdahoam",
+      "localFolder": "file:///C:/xampp/htdocs/wernerdahoam",
+      "access": "local"
+    },
+    {
+      "name": "Browser",
+      "remoteURL": "http://localhost/wernerdahoam",
+      "localFolder": "file:///C:/xampp/htdocs/wernerdahoam",
+      "access": "local"
+    }
+  ],
+  "activeTarget": "Browser"
+}
